@@ -29,6 +29,10 @@ body {
     cursor: pointer;
 }
 
+#botao:hover{
+    background-color: #22075f;
+}
+
 input{
     background: white;
     color: black;
